@@ -14,7 +14,7 @@ npx create-react-app app-name
 npm i gh-pages --save-dev
 
 #### Add Homepage to package.json Properties
-"homepage": "http://josephptflanagan.github.io/app-name"
+"homepage": "http​://josephptflanagan.github.io/app-name"
 
 #### Add Scripts to Scripts
 "predeploy": "npm run build",
